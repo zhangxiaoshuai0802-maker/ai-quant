@@ -1,0 +1,61 @@
+{
+  "tushare": {
+    "status": "success",
+    "record_count": 1211,
+    "date_range": {
+      "start": "2021-06-21",
+      "end": "2026-06-18"
+    },
+    "columns": [
+      "ts_code",
+      "trade_date",
+      "pre_close",
+      "open",
+      "high",
+      "low",
+      "close",
+      "change",
+      "pct_chg",
+      "vol",
+      "amount"
+    ]
+  },
+  "akshare": {
+    "status": "success",
+    "record_count": 1211,
+    "date_range": {
+      "start": "2021-06-21",
+      "end": "2026-06-18"
+    },
+    "columns": [
+      "日期",
+      "开盘",
+      "收盘",
+      "最高",
+      "最低",
+      "成交量",
+      "成交额",
+      "振幅",
+      "涨跌幅",
+      "涨跌额",
+      "换手率"
+    ]
+  },
+  "yfinance": {
+    "status": "success",
+    "record_count": 1210,
+    "date_range": {
+      "start": "2021-06-21",
+      "end": "2026-06-18"
+    },
+    "columns": [
+      "Open",
+      "High",
+      "Low",
+      "Close",
+      "Volume",
+      "Dividends",
+      "Stock Splits"
+    ]
+  }
+}
