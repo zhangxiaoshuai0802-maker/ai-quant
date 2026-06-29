@@ -1,0 +1,11 @@
+{
+  "data_source": "Tushare Pro API",
+  "ts_code": "510300.SH",
+  "fetch_time": "2026-06-18 17:12:04",
+  "start_date": "2021-06-21",
+  "end_date": "2026-06-18",
+  "frequency": "daily",
+  "adj": "None",
+  "record_count": 1211,
+  "cache_type": "real_api"
+}
