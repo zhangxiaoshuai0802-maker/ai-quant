@@ -1,0 +1,31 @@
+{
+  "stocks": {
+    "a_share": {
+      "code": "688981.SH",
+      "name": "SMIC (A-Share)",
+      "market": "STAR Market",
+      "currency": "CNY",
+      "data_range": {
+        "start": "2025-06-30",
+        "end": "2026-06-26"
+      },
+      "record_count": 235,
+      "latest_close": 148.76,
+      "pct_change": -5.1638
+    },
+    "hk_share": {
+      "code": "00981.HK",
+      "name": "SMIC (HK-Share)",
+      "market": "Hong Kong Main Board",
+      "currency": "HKD",
+      "data_range": {
+        "start": "2025-06-30",
+        "end": "2026-06-26"
+      },
+      "record_count": 244,
+      "latest_close": 80.0,
+      "pct_change": -6.98
+    }
+  },
+  "generated_at": "2026-06-28 16:13:37"
+}
