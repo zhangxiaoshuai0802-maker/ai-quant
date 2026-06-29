@@ -1,0 +1,33 @@
+{
+  "comparison_date": "2026-06-19 15:18:13",
+  "total_records": 1211,
+  "valid_records": 1210,
+  "missing_data": {
+    "tushare": 0,
+    "akshare_raw": 0,
+    "akshare_qfq": 0,
+    "yfinance": 1
+  },
+  "price_differences": {
+    "tushare_vs_akshare": {
+      "mean": 0.0,
+      "max_abs": 0.0,
+      "count_gt_001": 0
+    },
+    "tushare_vs_yfinance": {
+      "mean": 0.2378716913081398,
+      "max_abs": 0.5032217063903808,
+      "count_gt_001": 1111
+    },
+    "akshare_raw_vs_yfinance": {
+      "mean": 0.2378716913081398,
+      "max_abs": 0.5032217063903808,
+      "count_gt_001": 1111
+    },
+    "akshare_raw_vs_qfq": {
+      "mean": 0.24836859504132233,
+      "max_abs": 0.4190000000000005,
+      "count_gt_001": 1111
+    }
+  }
+}
