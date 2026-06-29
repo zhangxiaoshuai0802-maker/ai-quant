@@ -1,0 +1,50 @@
+{
+  "quality_summary": {
+    "check_time": "2026-06-18 17:19:41",
+    "total_records": 1211,
+    "date_range": {
+      "start": "2021-06-21",
+      "end": "2026-06-18"
+    },
+    "missing_fields": [],
+    "duplicate_records": 0,
+    "ohlc_violations": 0,
+    "price_violations": 0,
+    "volume_violations": 0,
+    "anomaly_candidates": 0
+  },
+  "data_meta": {
+    "data_source": "Tushare Pro API",
+    "ts_code": "510300.SH",
+    "frequency": "daily",
+    "adj": "None (未复权)",
+    "fields": [
+      "ts_code",
+      "trade_date",
+      "pre_close",
+      "open",
+      "high",
+      "low",
+      "close",
+      "change",
+      "pct_chg",
+      "vol",
+      "amount",
+      "daily_return_calc",
+      "return_diff"
+    ]
+  },
+  "api_cache_status": {
+    "status": "real_api_success",
+    "cache_age_days": null,
+    "cache_file": "data/raw/510300_SH_daily_raw_meta.json"
+  },
+  "quality_conclusion": {
+    "can_proceed": true,
+    "red_lines": [],
+    "warnings": [],
+    "notes": [
+      "数据质量基本通过，可以进入下一阶段研究"
+    ]
+  }
+}
