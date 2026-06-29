@@ -1,0 +1,17 @@
+{
+  "stock_code": "688981.SH",
+  "stock_name": "中芯国际",
+  "market": "科创板",
+  "data_range": {
+    "start": "2025-06-30",
+    "end": "2026-06-26"
+  },
+  "record_count": 235,
+  "latest_close": 148.76,
+  "change": -8.100000000000023,
+  "pct_change": -5.16384036720644,
+  "high_52w": 159.05,
+  "low_52w": 84.86,
+  "avg_vol": 667309.1476170212,
+  "generated_at": "2026-06-28 15:57:04"
+}
